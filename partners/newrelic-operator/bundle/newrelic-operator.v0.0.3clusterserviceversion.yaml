@@ -265,7 +265,7 @@ spec:
     - sql
   links:
     - name: NewRelic Operator - RHC4TP GitHub
-      url: https://github.com/RHC4TP/operators/tree/master/partners/newrelic-operator
+      url: https://github.com/newrelic/operators/tree/master/partners/newrelic-operator
     - name: Partner Guide for Certifying your Operator
       url: https://operators.gitbook.io/partner-guide-for-certifying-your-operator/
   maintainers:
